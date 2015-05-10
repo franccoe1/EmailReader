@@ -1,0 +1,52 @@
+x-store-info:sbevkl2QZR7OXo7WID5ZcdV2tiiWGqTnL8LqRHZDpO1LljV8CY4abg/x/aBZ7kZpOA7dp8CMP2jBJlGe2j1u8/yJCqK230PpRDa2iNgE1Pw9+RCROH4YPHF7VXyHqufaJTeKBnBcRG4=
+Authentication-Results: hotmail.com; spf=pass (sender IP is 209.85.215.54; identity alignment result is pass and alignment mode is relaxed) smtp.mailfrom=franc.coe1@gmail.com; dkim=pass (identity alignment result is pass and alignment mode is relaxed) header.d=gmail.com; x-hmca=pass header.id=franc.coe1@gmail.com
+X-SID-PRA: franc.coe1@gmail.com
+X-AUTH-Result: PASS
+X-SID-Result: PASS
+X-Message-Status: n:n
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0w
+X-Message-Info: gamVN+8Ez8V+RHg+F+brAYB6YuYFvoZRxGGTzCA1a0Bg2+W1EmAQ0y7LV85VDuhISOEBJaPR9XzuU9NwBxU+XEMfaah7K0ZHX7qaD16WJHwh+DO7oA7jKS2WGIIXdkJW+7bFHkMmZ1z3+HrML6hoGhqZSCpHxJUyB5BcSqdgxDHG4+s87YrZ1XQKsXFXDPBYXg1hmfNzwUxIwmoGdGx6/XqU+thCeuk+
+Received: from mail-la0-f54.google.com ([209.85.215.54]) by SNT004-MC3F24.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Sat, 9 May 2015 17:16:51 -0700
+Received: by mail-la0-f54.google.com with SMTP id v1so73179999lag.3
+        for <franc.coe1@hotmail.com>; Sat, 09 May 2015 17:16:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ZJDWuJ1xR4f9khSKhpkg7Ty60K91rjhdRdSuZ1y4N4Y=;
+        b=RaCik+cuQb0oM48lOEU9Svi7iHCNZc9o2nMxFuhVWZeF/1Sf+hB03hB8GxkDAsoWAi
+         VE9yxrlZJEr1oG8G5jnQJ4LZuKNyECyw59bAGy9H/+1L1XqA2NvqsQVr/e9WK4zMPVte
+         S8CHTxUazuwvmCsdB5mz6p7bIOZ0zuW3XUw8H8ahxJxzjMY1IKQNyWOchRaO9u5mSJlk
+         8IzJB7j2m+PSRK/HH1qps1y1+eDT0fpX927PbTIADTwiQ5+LguGFvWzIA6907RSWQjud
+         sPzzeYWvlSOpfV11GtZP80GuN3JuJhhLUjp51aKg8NxXfL4wIN7n/qGTAXBEwtaZVKe9
+         cJ2Q==
+MIME-Version: 1.0
+X-Received: by 10.112.205.69 with SMTP id le5mr3275806lbc.65.1431217010551;
+ Sat, 09 May 2015 17:16:50 -0700 (PDT)
+Received: by 10.152.123.243 with HTTP; Sat, 9 May 2015 17:16:50 -0700 (PDT)
+Date: Sun, 10 May 2015 01:16:50 +0100
+Message-ID: <CAGYhEvJ8mhR42z6Kza0DKKF2S80-T3oz=imp8TdgsbmEu+Tb6Q@mail.gmail.com>
+Subject: ggggggggggg
+From: Francisco Coelho <franc.coe1@gmail.com>
+To: franc.coe1@hotmail.com
+Content-Type: multipart/alternative; boundary=001a11c3c1be82b0de0515af2dc4
+Return-Path: franc.coe1@gmail.com
+X-OriginalArrivalTime: 10 May 2015 00:16:51.0085 (UTC) FILETIME=[9CAA93D0:01D08AB6]
+
+--001a11c3c1be82b0de0515af2dc4
+Content-Type: text/plain; charset=UTF-8
+
+jjjjjjjjjjjjjjjj
+
+-- 
+Cumprimentos,
+
+Francisco Coelho
+
+--001a11c3c1be82b0de0515af2dc4
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">jjjjjjjjjjjjjjjj<br clear="all"><div><br></div>-- <br><div class="gmail_signature"><div dir="ltr">Cumprimentos,<div><br></div><div>Francisco Coelho</div></div></div>
+</div>
+
+--001a11c3c1be82b0de0515af2dc4--

@@ -1,0 +1,52 @@
+x-store-info:sbevkl2QZR7OXo7WID5ZcVBK1Phj2jX/
+Authentication-Results: hotmail.com; spf=pass (sender IP is 209.85.217.173; identity alignment result is pass and alignment mode is relaxed) smtp.mailfrom=franc.coe1@gmail.com; dkim=pass (identity alignment result is pass and alignment mode is relaxed) header.d=gmail.com; x-hmca=pass header.id=franc.coe1@gmail.com
+X-SID-PRA: franc.coe1@gmail.com
+X-AUTH-Result: PASS
+X-SID-Result: PASS
+X-Message-Status: n:n
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0w
+X-Message-Info: gamVN+8Ez8V+RHg+F+brASzNo7OWnReFSX9I8cIyOqdJDXExZfaWhhgOidEYxnhWrcIXjRPDq3MYYlDe1SL1uE7wyRIFTMUCOu2QflGH64MeLfiwuKFs9564+e9Nk2WtciUOBOkOE2oK8hg2lVZND++WzIMlHBgz/poilnuCVLG7tAanhFKQbWR/OFYafz7ROwk8IpsDyI2s32WAo4gIGi32FTk5pkzG
+Received: from mail-lb0-f173.google.com ([209.85.217.173]) by COL004-MC6F8.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Sat, 9 May 2015 17:01:49 -0700
+Received: by mail-lb0-f173.google.com with SMTP id zk7so73700698lbb.0
+        for <franc.coe1@hotmail.com>; Sat, 09 May 2015 17:01:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=7L3sFZ5t/bQq34rM4QUWHO3a9RDgIi7ZueR//EGx2hA=;
+        b=v6CgzvgD0HEkHFxylQBwLRc7XuTVlytPff9uQ4ICiLMk3nK3iYMG0DTLnFA/9ZMMb9
+         Y6i8PmVHg82sEInRUZFIO/kv8XU+c66Ub44j0801heaG5dPEMqBQffMm7ffRJV3tIJb8
+         Q/3gj+7f5Fgqt97s3XxnkZjeTVih2mTD6yooEGve+Cxwoy2CDdAkPlkigLPzEfPuzKq/
+         eh9xGHN/nK3SUC2MiAoNDhOI/qtrclH+HoQl6C58YWo+X6wB3eNUKZWS2VLz3D3yhHuJ
+         1pHzRPSY2wtBYf7RfB3DEs0N1aIPebHz1lLYQ0U4weMI1WwYh0BAxnjD2S5lZnwMy3T0
+         MqTA==
+MIME-Version: 1.0
+X-Received: by 10.152.27.194 with SMTP id v2mr2713914lag.75.1431216109271;
+ Sat, 09 May 2015 17:01:49 -0700 (PDT)
+Received: by 10.152.123.243 with HTTP; Sat, 9 May 2015 17:01:49 -0700 (PDT)
+Date: Sun, 10 May 2015 01:01:49 +0100
+Message-ID: <CAGYhEvLEB6enPvfd3BtunpzG7PHD65ah-Y-OCKbWROreYhYt4Q@mail.gmail.com>
+Subject: teste
+From: Francisco Coelho <franc.coe1@gmail.com>
+To: franc.coe1@hotmail.com
+Content-Type: multipart/alternative; boundary=089e0158c2acca3de60515aef751
+Return-Path: franc.coe1@gmail.com
+X-OriginalArrivalTime: 10 May 2015 00:01:49.0680 (UTC) FILETIME=[83631700:01D08AB4]
+
+--089e0158c2acca3de60515aef751
+Content-Type: text/plain; charset=UTF-8
+
+ola
+
+-- 
+Cumprimentos,
+
+Francisco Coelho
+
+--089e0158c2acca3de60515aef751
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">ola<br clear="all"><div><br></div>-- <br><div class="gmail_signature"><div dir="ltr">Cumprimentos,<div><br></div><div>Francisco Coelho</div></div></div>
+</div>
+
+--089e0158c2acca3de60515aef751--

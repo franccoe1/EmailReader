@@ -1,0 +1,7 @@
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\bin\Debug\EmailReader.exe.config
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\bin\Debug\EmailReader.exe
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\bin\Debug\EmailReader.pdb
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\obj\Debug\EmailReader.csprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\obj\Debug\EmailReader.exe
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\obj\Debug\EmailReader.pdb
+D:\DEVELOPMENT\Github\EmailReader\EmailReader\bin\Debug\EAGetMail.dll
